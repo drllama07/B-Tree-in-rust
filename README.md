@@ -79,7 +79,7 @@
 
 ## You may also like...
 
-- [A minimal database implementation in RUST]()
+- [A minimal database implementation in RUST](https://github.com/drllama07/PlanckDB)
 
 ## License
 
